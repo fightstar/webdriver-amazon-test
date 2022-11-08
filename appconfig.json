@@ -1,0 +1,4 @@
+{
+    "ChromeDriverFolder": "C:\\Work\\PetProj\\webdriver-amazon-test\\drivers",
+    "WebDriverWait":  "5"
+}
